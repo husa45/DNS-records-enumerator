@@ -14,6 +14,22 @@ you can use it to enumerate all known DNS records .
 >source $(name_of_env)/bin/activate
 >
 
+
 **3.clone the repository to your virtual environment , to do so , type :**
 
->git clone 
+>git clone https://github.com/husa45/DNS-records-enumerator
+>
+
+
+**4.install all the dependencies int the requirements.txt file:**
+
+>pip3 install -r requirements.txt
+
+
+**5.Use the script by running :**
+
+>python3 dns_dig.py  --type={A,AAAA,MX,.....}     domain_name1   domain_name2  .... { Domain names to query }
+>
+
+
+**enjoy !!!!**
