@@ -9,7 +9,7 @@ you can use it to enumerate all known DNS records .
 >python3 -m venv  $(name_of_you_environment)
 
 
-**2.activate your virtual environment by typing : **
+**2.activate your virtual environment by typing :**
 
 >source $(name_of_env)/bin/activate
 >
@@ -21,7 +21,7 @@ you can use it to enumerate all known DNS records .
 >
 
 
-**4.install all the dependencies int the requirements.txt file:**
+**4.install all the dependencies in the requirements.txt file:**
 
 >pip3 install -r requirements.txt
 
