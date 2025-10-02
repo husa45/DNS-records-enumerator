@@ -4,4 +4,4 @@ you can use it to enumerate all known DNS records .
 
 ## installation
 
-** first clone the repository to your preferred directory **
+**first clone the repository to your preferred directory**
